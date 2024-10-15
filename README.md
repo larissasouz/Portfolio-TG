@@ -95,24 +95,24 @@ Além dessas contribuições, como <b> Product Owner </b> , desempenhei um papel
 
 ### Em 2023-1
 
-![image](https://github.com/larissasouz/Bertoti/assets/102266928/a40ad081-cf92-4932-8035-a582fa4d0e00)
-
-
-## DESCRIÇÃO DO PROJETO
-O projeto em questão desafia a criação de uma aplicação web com foco no gerenciamento de vendas. A aplicação tem como objetivo principal abranger três áreas cruciais: o histórico do vendedor, o planejamento de vendas e o registro das vendas efetuadas.
+O projeto do 3º semestre, tinha como objetivo a criação de uma aplicação web com foco no gerenciamento de vendas. A aplicação deve abranger três áreas cruciais: o histórico do vendedor, o planejamento de vendas e o registro das vendas efetuadas.
 
 Um dos principais recursos da aplicação é a capacidade de comparar esses três conjuntos de dados, permitindo uma análise minuciosa e precisa das informações. Isso significa que os resultados das vendas podem ser avaliados em relação ao histórico dos vendedores e ao planejamento estabelecido.
 
-O diferencial deste projeto é a integração de um algoritmo de Inteligência Artificial já existente. Esse algoritmo será empregado para gerar previsões e insights adicionais, com o objetivo de elevar a precisão e a confiabilidade das análises realizadas pela aplicação.
+O diferencial deste projeto é a integração de um algoritmo de Inteligência Artificial já existente. Esse algoritmo foi empregado para gerar previsões e insights adicionais, com o objetivo de elevar a precisão e a confiabilidade das análises realizadas pela aplicação.
 
-Em resumo, o desafio consiste em desenvolver uma aplicação web que simplifica o gerenciamento de vendas, proporcionando uma análise detalhada por meio da comparação do histórico dos vendedores, do planejamento e das vendas registradas. 
+![dashboard](https://github.com/B1nary-Devs-3-Semestre/DOM-ROCK/assets/101421659/b8670574-138e-4850-a426-94e4ca85456c)
 
-## TECNOLOGIAS UTILIZADAS
+<b> Tecnologias Utilizadas </b>
 
-![image](https://github.com/larissasouz/Bertoti/assets/102266928/27dcc3bc-1708-4d58-97c1-11b31ff9af77)
+- Java (Back-end)
+- MySql (Banco de dados)
+- Javascript (Front-end)
+- HTML5 (Front-end)
+- CSS3 (Front-end)
 
 
-## CONTRIBUIÇÕES PESSOAIS
+### Contribuições pessoais
 <div align="justify">
 
 No meu papel como desenvolvedora, contribuí tanto no Front-End quanto no Back-End do projeto. As atividades que desempenhei incluem:
@@ -208,3 +208,79 @@ Além dessas atuações, também desenvolvi algumas funcionalidades importantes 
 
 - Liderança -  Capacidade de influenciar e motivar a equipe de desenvolvimento. Sabendo da responsabilidade do meu papel na equipe como Product Owner e o poder de influência dentro da equipe, foquei em traçar um caminho que fizesse sentido para os dois lados: cliente e equipe. Além disso, auxiliei os demais integrantes nas resoluções dos problemas e acompanhei todos até que a última entrega fosse realizada com sucesso.
 - Resolução de problemas: Abordar desafios de forma proativa e encontrar soluções para obstáculos que surgem durante o desenvolvimento. Durante o quarto semestre, enfrentei diversos problemas, como novos integrantes e novas tecnologias a serem utilizadas. Em algumas situações, surgiram conflitos onde tive que intervir e tentar achar a melhor solução para a equipe e o projeto.
+
+  
+----
+
+### Em 2024-1
+
+<div align="justify">
+
+
+No 5º semestre, desenvolvemos um sistema para análise eficiente dos dados de faturas de energia, água e gás, lidando com informações complexas como valores de consumo e detalhes contratuais. Criamos visualizações claras e intuitivas que facilitam a compreensão dos padrões de consumo, tendências e comparações entre períodos e serviços. O projeto abrangeu desde a coleta e processamento dos dados até a apresentação visual, visando fornecer insights valiosos para decisões estratégicas e operacionais.
+
+![Dashboard Energia](https://github.com/user-attachments/assets/5bbebc53-3466-4692-b884-063884ad8abd)
+
+Para mais informações: <a href="https://github.com/B1nary-Devs/Tecsus">GIT</a>
+
+<b> Tecnologias Utilizadas </b>
+
+- Python (Back-end)
+- MySQL (Banco de dados)
+- React (Front-end)
+- Javascript (Front-end)
+- HTML5 (Front-end)
+- CSS3 (Front-end)
+
+### Contribuições pessoais
+
+<div align="justify">
+
+Durante minha atuação como Product Owner no projeto, tive a responsabilidade de desenvolver diversas atividades, incluindo:
+
+<b> Modelagem do banco de dados: </b>  Contribuí para a definição da estrutura de armazenamento dos dados, elaborando a modelagem conceitual do banco de dados conforme as necessidades do projeto.
+
+<b> Backlog do produto: </b> Após identificar as necessidades do cliente e os requisitos do projeto, organizei o backlog do produto, que listava as atividades a serem realizadas com suas respectivas prioridades.
+
+<b> Backlog da sprint: </b> Em colaboração com a equipe, determinei a programação de cada tarefa priorizada, resultando na criação do backlog da sprint. Isso incluiu a execução de 4 sprints de desenvolvimento.
+
+<b> Protótipo de baixa fidelidade: </b> Desenvolvi protótipos de baixa fidelidade, alinhando o design às expectativas do cliente e garantindo que as soluções fossem visualmente intuitivas.
+
+<b> Jornada do usuário: </b> Mapeei a jornada do usuário utilizando o Miro, detalhando o fluxo do sistema e as interações em diferentes cenários para melhorar a experiência do usuário.
+
+<b> Definição de requisitos: </b> Colaborei na definição dos requisitos do projeto, alinhando-os às necessidades do cliente e transformando-os em atividades claras e organizadas para o desenvolvimento.
+
+<b> Readme: </b> Elaborei a documentação do Readme.md, assegurando que todas as etapas do projeto estivessem claramente descritas e acessíveis para a equipe.
+
+Além dessas responsabilidades, também implementei funcionalidades essenciais que contribuíram significativamente para o sucesso do projeto, como:
+
+<b> Deploy do front utilizando o GitHub Actions: </b> Configurei o pipeline de CI/CD para automatizar o processo de deploy do front-end através do GitHub Actions, garantindo maior agilidade e eficiência nas entregas.
+
+<b> Implementação do componente sidebar com inserção das rotas: </b> Desenvolvi o componente de barra lateral (sidebar) no front-end, integrando as rotas de navegação para facilitar a interação e navegação dos usuários pela plataforma.
+
+<b> Arquitetura do ETL: </b> Estruturei a arquitetura do processo ETL (Extract, Transform, Load), garantindo a coleta, transformação e carregamento eficientes dos dados necessários para o sistema.
+
+<b> Branch e rastreabilidade do DevOps: </b> Estruturei o controle de versões com o uso de branches, garantindo a rastreabilidade do desenvolvimento através de boas práticas de DevOps, como a criação de pull requests, revisões de código e integração contínua.
+
+<b> Rastreabilidade DevOps: </b> Implementei práticas de rastreamento para todo o ciclo de vida de desenvolvimento, desde a implementação até a produção, assegurando uma gestão eficiente de cada etapa e maior controle sobre as entregas.
+
+</div>
+
+
+### Hard Skills
+- Python - Habilidade no desenvolvimento de soluções backend, incluindo manipulação de dados e criação de APIs.
+- MySQL - Competência na modelagem e gerenciamento de banco de dados relacional, realizando operações CRUD e otimização de consultas.
+- React - Capacidade de criar interfaces de usuário dinâmicas e interativas, com foco em modularidade e usabilidade.
+- JavaScript - Proeficiência em programação front-end para adicionar funcionalidades dinâmicas às interfaces web.
+- DevOps - Conhecimento em rastreabilidade de branches, CI/CD, e controle de versões, aplicando práticas ágeis no ciclo de desenvolvimento.
+- Power BI - Habilidade em integrar e criar dashboards interativos para a visualização e análise de dados, com foco em alertas de consumo.
+
+### Soft Skills
+
+- Liderança - Tenho a habilidade de liderar equipes de maneira organizada e colaborativa, especialmente em momentos de incerteza. Quando a equipe se encontrava desorientada, tomei a iniciativa de estruturar as atividades e definir prioridades, garantindo que todos entendessem suas responsabilidades. Sempre busquei criar um ambiente de trabalho positivo, ouvindo as necessidades de cada membro e promovendo a cooperação.
+
+- Resolução de Conflitos - Durante o projeto, enfrentei situações de conflito e atuei como mediadora. Conduzi diálogos com o objetivo de entender todas as partes envolvidas e encontrar soluções que beneficiassem tanto o grupo quanto o progresso do projeto. Meu foco foi evitar que conflitos interferissem no sucesso do projeto.
+
+- Comunicação Eficaz - A comunicação clara e transparente é uma das minhas principais competências. Mantive um diálogo constante e objetivo com a equipe e os stakeholders, garantindo que todos estivessem sempre alinhados quanto aos prazos, expectativas e eventuais desafios. Isso facilitou a tomada de decisões e ajudou a evitar mal-entendidos.
+
+-----

@@ -1,10 +1,60 @@
-## Meus Projetos
+<div align="center">
+  
+# Larissa Tomé de Souza
 
-### Em 2022-1
+</div>
+
+![Group 45](https://github.com/user-attachments/assets/daad26a7-3675-4a34-9736-bb505ab0aaf2)
+
+<div align="center">
+
+## Introdução
+
+</div>
 
 <div align="justify">
 
-No primeiro semestre de 2022, desenvolvemos a assistente virtual BETA, com o objetivo de auxiliar os alunos em seus estudos diários por meio de diversas funcionalidades, como: modo pomodoro, consulta à Wikipedia, reprodutor de música, gravação de voz, gerenciamento de calendário, anotações, lembretes, calculadora e informações sobre o clima. Seguindo a metodologia Scrum ao longo de três sprints, o projeto foi focado na resposta a comandos de voz e na operação em múltiplas plataformas. Utilizamos Python, HTML e CSS para o desenvolvimento, e todo o processo foi documentado no GitHub. A interface foi projetada para ser intuitiva e visualmente atraente, promovendo uma interação eficiente do usuário.
+Minha jornada acadêmica começou na ETEC Machado de Assis, em Caçapava-SP, onde cursei o ensino médio integrado ao técnico em Informática. Concluí minha formação em 2017, período em que desenvolvi um grande interesse pela área de Tecnologia, especialmente em Banco de Dados, inspirado por uma disciplina com a qual tive muita afinidade. <br>
+Quase cinco anos depois, em 2022, iniciei o curso de Tecnologia em Banco de Dados na FATEC São José dos Campos – Prof. Jessen Vidal. Durante essa etapa, tive contato com a API (Aprendizagem por Projeto Integrador), um programa que conecta estudantes a empresas parceiras. Embora inicialmente estivesse voltada à área de administração de bancos de dados (DBA), essa experiência despertou meu interesse pela área de Produtos, especialmente pela aplicação prática da metodologia Scrum presente no curso. <br>
+Minha primeira experiência profissional aconteceu no segundo semestre de 2022, quando comecei como estagiária na Pro4Tech, atuando como Product Owner. Lá, trabalhei com protótipos de alta fidelidade e participei de projetos que me permitiram aprofundar meu conhecimento em desenvolvimento, utilizando linguagens como JavaScript, HTML e CSS. Após seis meses, recebi uma proposta para atuar como Product Owner Júnior na SpotSat, posição que ocupo atualmente. <br>
+Ao longo da minha trajetória, sempre mantive o compromisso de buscar aprendizado constante, complementando minha formação acadêmica com cursos nas áreas de Produtos e Desenvolvimento, incluindo Python, Java, JavaScript, HTML, CSS, Figma, e Planejamento e Gestão de Projetos. <br>
+Estou em contínua busca por crescimento profissional, enfrentando novos desafios e mantendo o foco nos meus objetivos. Acredito que essa combinação de dedicação, aprendizado e experiência prática me capacita a contribuir de forma significativa em projetos que unem tecnologia e inovação.
+
+## Contatos
+
+- <a href="https://github.com/larissasouz/">GitHub</a> <br>
+- <a href="https://www.linkedin.com/in/larissatsouza/">LinkedIn</a>
+
+## Meus Principais Conhecimentos
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- SQL
+- Metodologias Ágeis (Scrum, Kanban, Lean)
+- Ferramentas de Gestão (Azure DevOps, Jira)
+- Gestão de Produtos (Roadmapping, MVP, Modelagem de Negócios)
+- Ferramenta de Colaboração (Notion, Slack, Teams)
+- Ferramentas de Prototipagem (Miro, Figma, Draw.io, Excalidraw)
+
+<div align="center">
+  
+## Meus Projetos
+
+</div> 
+
+## Em 2022-1
+
+<div align="justify">
+
+No primeiro semestre de 2022, fomos apresentados a um <b> problema </b> recorrente enfrentado pelos estudantes: a dificuldade em manter a organização e o foco nos estudos diários , especialmente diante de múltiplas tarefas e a falta de uma ferramenta integrada que facilitasse essa gestão. <br>
+
+Em resposta a esse desafio, desenvolvemos, em parceria com o <b> professor Sabha </b> , a assistente virtual BETA, uma <b> solução</b> projetada para centralizar e simplificar as rotinas dos estudantes. A BETA oferece diversas funcionalidades, como modo pomodoro, consulta à Wikipedia, reprodutor de música, gravação de voz, gerenciamento de calendário, anotações, lembretes, calculadora e informações climáticas.<br>
+
+O projeto foi conduzido com base na metodologia Scrum, dividido em três sprints, com foco na resposta a comandos de voz e na operação em múltiplas plataformas. Utilizamos Python, HTML e CSS no desenvolvimento, documentando todo o processo no GitHub. A interface foi cuidadosamente projetada para ser intuitiva e visualmente atraente, promovendo uma experiência eficiente e integrada para o usuário.<br>
+
+Essa solução atendeu à necessidade de facilitar a organização e o foco dos estudantes, eliminando o incômodo de depender de diversas ferramentas desconectadas e trazendo um impacto positivo na produtividade. <br>
 
 ![API FATEC - BETA - YouTube - Google Chrome 2024-05-14 20-38-45](https://github.com/larissasouz/Bertoti/assets/102266928/3c0bc2aa-4542-4fdf-8f23-99744b82e65b)
 
@@ -42,11 +92,13 @@ Essas funcionalidades foram fundamentais para transformar a BETA em uma ferramen
 
 ----
 
-### Em 2022-2
+## Em 2022-2
 
 <div align="justify">
 
-No segundo semestre de 2022, desenvolvemos um sistema desktop com o objetivo de gerenciar e acompanhar processos seletivos de candidatos para vagas de emprego. Além de suas funcionalidades de gerenciamento, o sistema é capaz de gerar relatórios e realizar análises de aprovação para o setor de recursos humanos.
+No segundo semestre de 2022, trabalhamos com a empresa parceira <b> Pro4Tech </b>, especializada no desenvolvimento de sistemas de informação. A empresa enfrentava um <b> problema </b> no gerenciamento de seus processos seletivos, isso gerava dificuldades na organização das informações dos candidatos. <br>
+
+Como <b> solução </b>, desenvolvemos um sistema desktop voltado especificamente para gerenciar e acompanhar os processos seletivos. Além das funcionalidades de organização e acompanhamento, o sistema permite a geração de relatórios detalhados e análises automatizadas de aprovação, otimizando o trabalho da equipe de RH e garantindo maior eficiência no recrutamento.
 
 ![2022-11-27 22-30-07_Trim](https://user-images.githubusercontent.com/101594950/204175322-43f2fbed-53c0-47bf-a3c1-2e69d4255ac8.gif)
 
@@ -95,11 +147,11 @@ Além dessas contribuições, como <b> Product Owner </b> , desempenhei um papel
 
 ### Em 2023-1
 
-O projeto do 3º semestre, tinha como objetivo a criação de uma aplicação web com foco no gerenciamento de vendas. A aplicação deve abranger três áreas cruciais: o histórico do vendedor, o planejamento de vendas e o registro das vendas efetuadas.
+No projeto do 3º semestre, trabalhamos com a empresa parceira <b> Dom Rock </b>, especializada na área de dados. A empresa enfrentava um <b> problema </b> relacionado à falta de integração e precisão na análise das informações de vendas. Os dados estavam dispersos, dificultando uma visão completa e estratégica. <br>
 
-Um dos principais recursos da aplicação é a capacidade de comparar esses três conjuntos de dados, permitindo uma análise minuciosa e precisa das informações. Isso significa que os resultados das vendas podem ser avaliados em relação ao histórico dos vendedores e ao planejamento estabelecido.
+Como <b> solução</b>, desenvolvemos uma aplicação web focada no gerenciamento de vendas, abrangendo três áreas cruciais: histórico do vendedor, planejamento de vendas e registro das vendas efetuadas. Um dos principais recursos da aplicação é a capacidade de comparar esses conjuntos de dados, permitindo análises minuciosas e assertivas. Isso possibilita avaliar os resultados das vendas em relação ao desempenho passado dos vendedores e ao planejamento estabelecido. <br>
 
-O diferencial deste projeto é a integração de um algoritmo de Inteligência Artificial já existente. Esse algoritmo foi empregado para gerar previsões e insights adicionais, com o objetivo de elevar a precisão e a confiabilidade das análises realizadas pela aplicação.
+O diferencial do projeto foi a integração de um algoritmo de Inteligência Artificial já existente, utilizado para gerar previsões e insights adicionais. Essa funcionalidade elevou a precisão e a confiabilidade das análises, proporcionando à Dom Rock uma ferramenta estratégica para aprimorar sua gestão de vendas. <br>
 
 ![dashboard](https://github.com/B1nary-Devs-3-Semestre/DOM-ROCK/assets/101421659/b8670574-138e-4850-a426-94e4ca85456c)
 
@@ -148,13 +200,13 @@ Em conjunto, essas tecnologias e atividades contribuíram para o desenvolvimento
 -----
 
 
-### Em 2023-2
+## Em 2023-2
 
 <div align="justify">
 
-No 4º semestre, desenvolvemos um sistema web para simplificar a gestão de prestadores de serviço, segmentos e ordens de serviço. Este projeto incluiu a criação de uma landing page intuitiva para facilitar a solicitação de novas ordens de serviço por novos clientes, através de um formulário simples.
+No 4º semestre, trabalhamos com a empresa parceira <b>Jaia Software</b>, uma software house especializada em soluções para gestão de serviços. A empresa enfrentava <b>dificuldades</b> no gerenciamento eficiente dos prestadores de serviço, segmentos e ordens de serviço, o que resultava em processos manuais e demorados.
 
-Para os clientes existentes, foi disponibilizada uma landing page personalizada, permitindo fácil acesso às ordens de serviço anteriores, a possibilidade de baixar laudos novamente e fornecer feedback valioso, incluindo sugestões e reclamações. Além disso, eles também podem realizar novas solicitações de ordens de serviço diretamente pela plataforma.
+Como <b>solução</b>, desenvolvemos um sistema web focado em simplificar a gestão de prestadores de serviço, segmentos e ordens de serviço. O projeto incluiu a criação de uma landing page intuitiva, que facilita a solicitação de novas ordens de serviço para novos clientes por meio de um formulário simples. Para os clientes existentes, foi criada uma landing page personalizada, oferecendo acesso fácil às ordens de serviço anteriores, permitindo o download de laudos e fornecendo um canal para feedbacks, sugestões e reclamações. Além disso, os clientes existentes também podem realizar novas solicitações de ordens de serviço diretamente pela plataforma.
 
 ![consulta de segmento](https://github.com/B1nary-Devs/JAIA-SOFTWARE/assets/102266928/f3ec5880-c825-4080-a898-0c97a086d3d2)
 

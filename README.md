@@ -269,7 +269,9 @@ Além dessas atuações, também desenvolvi algumas funcionalidades importantes 
 <div align="justify">
 
 
-No 5º semestre, desenvolvemos um sistema para análise eficiente dos dados de faturas de energia, água e gás, lidando com informações complexas como valores de consumo e detalhes contratuais. Criamos visualizações claras e intuitivas que facilitam a compreensão dos padrões de consumo, tendências e comparações entre períodos e serviços. O projeto abrangeu desde a coleta e processamento dos dados até a apresentação visual, visando fornecer insights valiosos para decisões estratégicas e operacionais.
+No 5º semestre, trabalhamos com a empresa parceira <b>  Tecsus </b> , especializada na gestão de utilidades como água, energia e gases. A empresa enfrentava dificuldades em analisar e interpretar grandes volumes de dados complexos provenientes das faturas de seus clientes. Informações como valores de consumo e detalhes contratuais estavam distribuídas de forma desorganizada, dificultando a identificação de padrões, tendências e comparações necessárias para tomadas de decisão estratégicas e operacionais. Esse cenário resultava em análises demoradas e pouco eficientes, impactando a agilidade e a precisão na gestão das utilidades.
+
+Como solução, desenvolvemos um sistema robusto para a análise eficiente desses dados. O projeto abrangeu desde a coleta e processamento das informações até a criação de visualizações claras e intuitivas, permitindo uma compreensão facilitada dos padrões de consumo, tendências e comparações entre períodos e serviços. Essa ferramenta trouxe à Tecsus insights valiosos, otimizando suas operações e apoiando decisões estratégicas.
 
 ![Dashboard Energia](https://github.com/user-attachments/assets/5bbebc53-3466-4692-b884-063884ad8abd)
 
@@ -336,3 +338,60 @@ Além dessas responsabilidades, também implementei funcionalidades essenciais q
 - Comunicação Eficaz - A comunicação clara e transparente é uma das minhas principais competências. Mantive um diálogo constante e objetivo com a equipe e os stakeholders, garantindo que todos estivessem sempre alinhados quanto aos prazos, expectativas e eventuais desafios. Isso facilitou a tomada de decisões e ajudou a evitar mal-entendidos.
 
 -----
+
+### Em 2024-2
+
+
+No 6º semestre, trabalhamos com a empresa parceira <b> SPC Grafeno </b>, uma instituição operadora de sistema do mercado financeiro. O desafio apresentado foi explorar as bases de dados fornecidas pela empresa para identificar padrões e oportunidades, com o objetivo de desenvolver um ou mais produtos financeiros que agregassem valor tanto para a empresa quanto para seus clientes. A empresa enfrentava dificuldades em identificar e mitigar fraudes, especialmente em relação a duplicatas fraudulentas, o que compromete a segurança e a eficiência operacional. Além disso, a falta de uma plataforma centralizada que fornecesse insights visuais precisos dificultava a tomada de decisões informadas.
+
+Como solução, desenvolvemos um sistema inovador de pontuação e painel para ativos financeiros, utilizando Inteligência Artificial e aprendizado de máquina para identificar duplicatas fraudulentas e melhorar a segurança das operações. Nossa plataforma oferece insights visuais valiosos, capacitando as instituições financeiras a tomar decisões mais precisas e rápidas. Essa solução beneficiou tanto a SPC Grafeno quanto seus clientes, trazendo maior eficiência e confiabilidade para o processo financeiro.
+
+![Home](https://github.com/user-attachments/assets/a4943def-2e6d-42f5-8f10-e77aa754885a)
+
+Para mais informações: <a href="https://github.com/B1nary-Devs/SPC-Grafeno/tree/main">GIT</a>
+
+<b> Tecnologias Utilizadas </b>
+
+- Python (Back-end)
+- MongoDB (Back-end)
+- Colab (Back-end)
+- React (Front-end)
+
+### Contribuições pessoais
+
+<div align="justify">
+
+Durante o projeto, iniciei minha atuação como <b> desenvolvedora </b> na primeira sprint e, a partir da segunda sprint, assumi também o papel de <b> Product Owner </b>, conciliando ambas as responsabilidades. Minhas principais contribuições foram:
+
+<b> Backlog do produto: </b> Após a identificação das necessidades do cliente e dos requisitos do projeto, organizei e priorizei o backlog do produto, garantindo que as atividades fossem claramente definidas e alinhadas aos objetivos do projeto.
+
+<b> Backlog da sprint: </b> Em colaboração com a equipe, planejei e estabeleci a programação das tarefas priorizadas, culminando na organização de três sprints de desenvolvimento.
+
+<b> Protótipo de baixa fidelidade: </b> Desenvolvi protótipos de baixa fidelidade para validar o design com o cliente, assegurando que as soluções fossem intuitivas e estivessem alinhadas às expectativas.
+
+<b> Jornada do usuário: </b> Mapeei a jornada do usuário utilizando a ferramenta Miro, detalhando os fluxos do sistema e os cenários de interação, visando melhorar a experiência do usuário e identificar possíveis ajustes.
+
+<b> Definição de requisitos: </b> Colaborei na definição e detalhamento dos requisitos do projeto, transformando as necessidades do cliente em tarefas claras e organizadas para o desenvolvimento.
+
+<b> Readme: </b> Redigi a documentação no arquivo Readme.md, descrevendo de forma objetiva todas as etapas e informações relevantes do projeto, tornando-a uma referência clara e acessível para a equipe.
+
+<b> Tratamento dos dados: </b> Realizei o tratamento dos dados fornecidos pela empresa parceira, ajustando-os conforme as necessidades do sistema e as funcionalidades planejadas.
+
+<b> Agrupamento utilizando K-Means: </b> Implementei o agrupamento dos dados geolocalizados utilizando o algoritmo K-Means, destacando padrões e insights relevantes.
+
+<b> Implementação de mapa interativo </b> Desenvolvi um mapa interativo com a biblioteca Leaflet, apresentando os estados e seus respectivos agrupamentos de forma visual e dinâmica.
+
+</div>
+
+### Hard Skills
+- Python - Expertise no desenvolvimento de soluções backend, incluindo manipulação e análise de dados, além da criação e consumo de APIs robustas.
+- MongoDB - Proficiente em gerenciamento de bancos de dados NoSQL, incluindo modelagem e consultas
+- React - Capacidade de criar interfaces de usuário dinâmicas e interativas, com foco em modularidade e usabilidade.
+- Leaflet  - Experiência no desenvolvimento de mapas interativos e dinâmicos, integrando visualizações geoespaciais para uma experiência rica do usuário.
+- K-means - Conhecimento em técnicas de agrupamento utilizando o algoritmo K-Means para identificar padrões e insights em dados complexos.
+
+### Soft Skills
+
+- Autonomia - Habilidade para trabalhar de forma independente, tomando decisões informadas e enfrentando desafios sem necessidade constante de supervisão. Um exemplo foi o estudo aprofundado do algoritmo K-Means, onde desenvolvi o entendimento necessário para implementá-lo com eficácia no projeto.
+  
+- Resolução de problemas - Capacidade de lidar com situações inesperadas e tomar decisões estratégicas para garantir o progresso do trabalho. Durante a primeira sprint, enfrentei o desafio da saída inesperada do Product Owner inicial, assumindo essa posição e liderando a equipe para assegurar a conclusão bem-sucedida e de alta qualidade do projeto.

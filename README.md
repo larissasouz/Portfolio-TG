@@ -81,14 +81,14 @@ Essas funcionalidades foram fundamentais para transformar a BETA em uma ferramen
 </div>
 
 ### Hard Skills
-- Python - Habilidade em desenvolver soluções de programação de forma autônoma, com Python como linguagem principal.
-- HTML5 - Competência na estruturação semântica, utilizando tags como <i> header, footer, article, e section </i> para criar uma organização lógica e bem definida do conteúdo da página.
-- CSS3 - Capacidade de estilizar interfaces de maneira independente, incluindo criação de animações e transições..
+- Python: (2/5)
+- HTML5: (3/5)
+- CSS3: (2/5)
 
 ### Soft Skills
-- Colaboração - TTrabalhei em equipe com foco em compartilhar conhecimento e solucionar problemas coletivamente, o que aumentou nossa produtividade e criatividade. Um dos desafios iniciais foi compreender o funcionamento do Projeto Integrador, e atuei junto à equipe para mapear e definir o processo de forma clara para todos.
-- Liderança - Pela experiência que tive, atuei auxiliando na liderança, lidando com adversidades e trabalhando com a gestão de tempo. Por ser tudo novo, atuei tentando apresentar caminhos e possíveis soluções que poderíamos entregar para o Projeto.
-- Adaptabilidade - Mesmo com os desafios que surgiram, eu e a equipe conseguimos nos adaptar e encontrar as melhores formas de lidar com as situações. Uma dessas adaptações foi o desenvolvimento da interface para responder a comandos de voz, ajustando o design e funcionalidades conforme a necessidade.
+- Colaboração - Trabalhei em equipe com foco em compartilhar o conhecimento que tinha devido aos estudos anteriores com python e solucionar problemas coletivamente, o que aumentou nossa produtividade e criatividade. Um dos desafios iniciais foi compreender o funcionamento do Projeto Integrador, e atuei junto à equipe para mapear e definir o processo de forma clara para todos.
+- Liderança - Pela experiência que tive fazendo gestão em farmácia, atuei auxiliando na liderança, trabalhando com a gestão de tempo das Sprints, utilizando uma planilha excel de gestão. Por ser tudo novo, atuei tentando apresentar caminhos e possíveis soluções que poderíamos entregar para o Projeto.
+- Adaptabilidade - Mesmo com os desafios que surgiram com python, por ser uma linguagem nova, eu e a equipe conseguimos nos adaptar e encontrar as melhores formas de lidar com as situações. Uma dessas adaptações foi o desenvolvimento da interface para responder a comandos de voz, ajustando o design e funcionalidades conforme a necessidade.
 
 ----
 
@@ -96,7 +96,7 @@ Essas funcionalidades foram fundamentais para transformar a BETA em uma ferramen
 
 <div align="justify">
 
-No segundo semestre de 2022, trabalhamos com a empresa parceira <b> Pro4Tech </b>, especializada no desenvolvimento de sistemas de informação. A empresa enfrentava um <b> problema </b> no gerenciamento de seus processos seletivos, isso gerava dificuldades na organização das informações dos candidatos. <br>
+No segundo semestre de 2022, trabalhamos com a empresa parceira <b> Pro4Tech </b>, especializada no desenvolvimento de sistemas de informação. A empresa enfrentava um <b> problema </b> no gerenciamento de seus processos seletivos, faltava uma visão clara dos candidatos à vaga e isso gerava dificuldades na organização das informações dos candidatos. <br>
 
 Como <b> solução </b>, desenvolvemos um sistema desktop voltado especificamente para gerenciar e acompanhar os processos seletivos. Além das funcionalidades de organização e acompanhamento, o sistema permite a geração de relatórios detalhados e análises automatizadas de aprovação, otimizando o trabalho da equipe de RH e garantindo maior eficiência no recrutamento.
 
@@ -134,26 +134,27 @@ Além dessas contribuições, como <b> Product Owner </b> , desempenhei um papel
 </div>
 
 ### Hard Skills
-- Java - Habilidade em desenvolver soluções de programação de forma independente.
-- CSS3 - Capacidade de estilizar autonomamente, incluindo a criação de animações e transições.
-- MySQL - Competência em realizar operações CRUD de forma autônoma.
+- Java: (2/5)
+- CSS3: (3/5)
+- MySQL: (2/5)
 
 ### Soft Skills
 
-- Comunicação - Capacidade de transmitir informações de maneira clara e eficaz a todos os stakeholders, incluindo clientes, equipes de desenvolvimento e professores. Como Product Owner, a comunicação foi essencial para compreender os requisitos e repassar as necessidades do cliente aos desenvolvedores.
-- Negociação- Habilidade para negociar prioridades, prazos e recursos, garantindo que os objetivos do produto sejam alcançados. Dado o escopo do projeto sobre "Gerenciamento e acompanhamento de processos seletivos", a negociação com o cliente foi crucial para alcançar um consenso que atendesse tanto às suas expectativas quanto às da equipe de desenvolvimento.
-- Pensamento crítico: Capacidade de analisar problemas complexos e tomar decisões informadas com base em dados e feedback, assegurando que as soluções propostas sejam viáveis e eficazes. O desenvolvimento do sistema foi mais desafiador do que o previsto, devido ao uso de uma nova linguagem de programação no back-end e à experiência de lidar com um cliente externo. Mantive o foco na entrega do que foi acordado, mesmo em momentos de pressão, buscando tranquilizar a equipe e garantir a continuidade do progresso.
+- Comunicação - Durante o projeto surgiram algumas dúvidas quanto aos tipos de dados que deveriam ser cadastrados no sistema, com isso utilizei da comunicação através de canais como Slack e Teams para sanar as dúvidas.
+- Resolução de problemas: Em momentos de pressão como ao final da sprint inicial, onde tivemos problemas com merge no GitHub, foquei em entender a situação, que era somente um conflito simples, tranquilizar a equipe e garantir a continuidade na entrega.
 ---
 
 ### Em 2023-1
 
-No projeto do 3º semestre, trabalhamos com a empresa parceira <b> Dom Rock </b>, especializada na área de dados. A empresa enfrentava um <b> problema </b> relacionado à falta de integração e precisão na análise das informações de vendas. Os dados estavam dispersos, dificultando uma visão completa e estratégica. <br>
+No projeto do 3º semestre, trabalhamos com a empresa parceira <b> Dom Rock </b>, especializada na área de dados. A empresa enfrentava um <b> problema </b> relacionado à falta de precisão na análise das informações de vendas, isso porque os dados estavam dispersos, dificultando uma visão completa e estratégica. <br>
 
 Como <b> solução</b>, desenvolvemos uma aplicação web focada no gerenciamento de vendas, abrangendo três áreas cruciais: histórico do vendedor, planejamento de vendas e registro das vendas efetuadas. Um dos principais recursos da aplicação é a capacidade de comparar esses conjuntos de dados, permitindo análises minuciosas e assertivas. Isso possibilita avaliar os resultados das vendas em relação ao desempenho passado dos vendedores e ao planejamento estabelecido. <br>
 
 O diferencial do projeto foi a integração de um algoritmo de Inteligência Artificial já existente, utilizado para gerar previsões e insights adicionais. Essa funcionalidade elevou a precisão e a confiabilidade das análises, proporcionando à Dom Rock uma ferramenta estratégica para aprimorar sua gestão de vendas. <br>
 
 ![dashboard](https://github.com/B1nary-Devs-3-Semestre/DOM-ROCK/assets/101421659/b8670574-138e-4850-a426-94e4ca85456c)
+
+Para mais informações: <a href="https://github.com/B1nary-Devs/DOM-ROCK">GIT</a>
 
 <b> Tecnologias Utilizadas </b>
 
@@ -181,21 +182,21 @@ No meu papel como desenvolvedora, contribuí tanto no Front-End quanto no Back-E
 
 ###  Hard Skills
 
-- JavaScript: - Usei JavaScript para aprimorar a interatividade do Front-End, permitindo aos usuários interagir com os dados e realizar ações nas páginas da web.
+- JavaScript: (3/5)
 
-- Framework Bootstrap: - Para melhorar o design e a estética das interfaces de usuário, utilizei o Bootstrap, um framework de CSS e JavaScript amplamente usado para criar layouts responsivos e visualmente atraentes.
+- Framework Bootstrap: (4/5)
+  
+- Java e Spring Boot: (3/5)
 
-- Java e Spring Boot: -  Desenvolvi a lógica do Back-End usando Java e o framework Spring Boot, o que envolveu o processamento de solicitações do cliente, o acesso ao banco de dados SQL e a lógica de negócios para as operações de CRUD.
-
-- Banco de Dados SQL: - Utilizei um banco de dados SQL para armazenar e gerenciar os dados do sistema de maneira estruturada e segura.
+- MySQL: (3/5)
 
 Em conjunto, essas tecnologias e atividades contribuíram para o desenvolvimento de um sistema completo e funcional que permitiu o gerenciamento eficiente de administradores, vendas e planejamento dentro da aplicação.
 
 ## Soft Skills
 
-- Organização - A habilidade de organizar o fluxo de trabalho de maneira eficiente. Com diversas responsabilidades, como o desenvolvimento de CRUDs, modelagem de banco de dados, e requisições no Back-End, a organização do tempo e das tarefas foi fundamental. Isso me permitiu manter o cronograma em dia, evitando atrasos e garantindo que cada etapa fosse concluída conforme planejado.
+- Organização - Com diversas responsabilidades, como o desenvolvimento de CRUDs, modelagem de banco de dados, e requisições no Back-End, a organização do tempo através do GitHub Actions e das tarefas foi fundamental. Isso me permitiu manter o cronograma em dia, evitando atrasos e garantindo que cada etapa fosse concluída conforme planejado.
 
-- Autonomia - Capacidade de trabalhar de maneira independente, tomando decisões informadas sem a necessidade constante de supervisão. Durante o desenvolvimento do CRUD para administradores e a modelagem de banco de dados, precisei tomar decisões técnicas e implementar soluções de forma autônoma, o que garantiu a fluidez do projeto.
+- Autonomia - Durante o desenvolvimento do CRUD para administradores e a modelagem de banco de dados, precisei tomar decisões técnicas do caminho a ser seguido da modelagem de dados e implementar soluções de modelagem de forma autônoma, o que garantiu a fluidez do projeto.
 
 -----
 
@@ -204,7 +205,7 @@ Em conjunto, essas tecnologias e atividades contribuíram para o desenvolvimento
 
 <div align="justify">
 
-No 4º semestre, trabalhamos com a empresa parceira <b>Jaia Software</b>, uma software house especializada em soluções para gestão de serviços. A empresa enfrentava <b>dificuldades</b> no gerenciamento eficiente dos prestadores de serviço, segmentos e ordens de serviço, o que resultava em processos manuais e demorados.
+No 4º semestre, trabalhamos com a empresa parceira <b>Jaia Software</b>, uma software house especializada em soluções para gestão de serviços. A empresa enfrentava <b>dificuldades</b> em processos manuais e demorados, isso porque tinham que realizar o gerenciamento eficiente dos prestadores de serviço, segmentos e ordens de serviço.
 
 Como <b>solução</b>, desenvolvemos um sistema web focado em simplificar a gestão de prestadores de serviço, segmentos e ordens de serviço. O projeto incluiu a criação de uma landing page intuitiva, que facilita a solicitação de novas ordens de serviço para novos clientes por meio de um formulário simples. Para os clientes existentes, foi criada uma landing page personalizada, oferecendo acesso fácil às ordens de serviço anteriores, permitindo o download de laudos e fornecendo um canal para feedbacks, sugestões e reclamações. Além disso, os clientes existentes também podem realizar novas solicitações de ordens de serviço diretamente pela plataforma.
 
@@ -251,15 +252,16 @@ Além dessas atuações, também desenvolvi algumas funcionalidades importantes 
 </div>
 
 ### Hard Skills
-- Java - Habilidade em desenvolver soluções de programação de forma independente.
-- OracleCloud - Competência em realizar operações CRUD de forma autônoma.
-- CSS3 - Capacidade de estilizar autonomamente, incluindo a criação de animações e transições.
-- Typescript - Proficiência em desenvolver aplicações web robustas, com tipagem estática que melhora a qualidade do código e a produtividade.
-
+- Java: (3/5)
+- OracleCloud: (2/5)
+- CSS3: (4/5)
+- Typescript: (3/5)
+- 
 ### Soft Skills
 
-- Liderança -  Capacidade de influenciar e motivar a equipe de desenvolvimento. Sabendo da responsabilidade do meu papel na equipe como Product Owner e o poder de influência dentro da equipe, foquei em traçar um caminho que fizesse sentido para os dois lados: cliente e equipe. Além disso, auxiliei os demais integrantes nas resoluções dos problemas e acompanhei todos até que a última entrega fosse realizada com sucesso.
-- Resolução de problemas: Abordar desafios de forma proativa e encontrar soluções para obstáculos que surgem durante o desenvolvimento. Durante o quarto semestre, enfrentei diversos problemas, como novos integrantes e novas tecnologias a serem utilizadas. Em algumas situações, surgiram conflitos onde tive que intervir e tentar achar a melhor solução para a equipe e o projeto.
+- Comunicação - Quando apresentado o desafio, a equipe ficou insegura por não ter entendido corretamente o desafio proposto, sabendo o poder de influência dentro da equipe, foquei em sanar dúvidas principalmente relacionadas ao checklist e apresentar um caminho que fizesse sentido para os dois lados: cliente e equipe.
+- 
+- Resolução de problemas: Durante o quarto semestre, enfrentei diversos problemas, como novos integrantes. Em algumas situações, surgiram conflitos como discussões internas onde os integrantes se sentiam oprimidos, com isso tive que intervir e tentar achar a melhor solução para a equipe e o projeto. 
 
   
 ----
@@ -269,9 +271,9 @@ Além dessas atuações, também desenvolvi algumas funcionalidades importantes 
 <div align="justify">
 
 
-No 5º semestre, trabalhamos com a empresa parceira <b>  Tecsus </b> , especializada na gestão de utilidades como água, energia e gases. A empresa enfrentava dificuldades em analisar e interpretar grandes volumes de dados complexos provenientes das faturas de seus clientes. Informações como valores de consumo e detalhes contratuais estavam distribuídas de forma desorganizada, dificultando a identificação de padrões, tendências e comparações necessárias para tomadas de decisão estratégicas e operacionais. Esse cenário resultava em análises demoradas e pouco eficientes, impactando a agilidade e a precisão na gestão das utilidades.
+No 5º semestre, trabalhamos com a empresa parceira <b>  Tecsus </b> , especializada na gestão de utilidades como água, energia e gases. A empresa enfrentava <b> problemas </b> em analisar e interpretar grandes volumes de dados complexos provenientes das faturas de seus clientes, além disso informações como valores de consumo e detalhes contratuais estavam distribuídas de forma desorganizada, dificultando a identificação de padrões, tendências e comparações necessárias para tomadas de decisão estratégicas e operacionais. Por conta dessa problemática, eram geradas análises demoradas e pouco eficientes, impactando a agilidade e a precisão na gestão das utilidades.
 
-Como solução, desenvolvemos um sistema robusto para a análise eficiente desses dados. O projeto abrangeu desde a coleta e processamento das informações até a criação de visualizações claras e intuitivas, permitindo uma compreensão facilitada dos padrões de consumo, tendências e comparações entre períodos e serviços. Essa ferramenta trouxe à Tecsus insights valiosos, otimizando suas operações e apoiando decisões estratégicas.
+Como <b> solução </b>, desenvolvemos um sistema robusto para a análise eficiente desses dados. O projeto abrangeu desde a coleta e processamento das informações até a criação de visualizações claras e intuitivas, permitindo uma compreensão facilitada dos padrões de consumo, tendências e comparações entre períodos e serviços. Essa ferramenta trouxe à Tecsus insights valiosos, otimizando suas operações e apoiando decisões estratégicas.
 
 ![Dashboard Energia](https://github.com/user-attachments/assets/5bbebc53-3466-4692-b884-063884ad8abd)
 
@@ -322,27 +324,25 @@ Além dessas responsabilidades, também implementei funcionalidades essenciais q
 
 
 ### Hard Skills
-- Python - Habilidade no desenvolvimento de soluções backend, incluindo manipulação de dados e criação de APIs.
-- MySQL - Competência na modelagem e gerenciamento de banco de dados relacional, realizando operações CRUD e otimização de consultas.
-- React - Capacidade de criar interfaces de usuário dinâmicas e interativas, com foco em modularidade e usabilidade.
-- JavaScript - Proeficiência em programação front-end para adicionar funcionalidades dinâmicas às interfaces web.
-- DevOps - Conhecimento em rastreabilidade de branches, CI/CD, e controle de versões, aplicando práticas ágeis no ciclo de desenvolvimento.
-- Power BI - Habilidade em integrar e criar dashboards interativos para a visualização e análise de dados, com foco em alertas de consumo.
+- Python: (3/5)
+- MySQL: (4/5)
+- React: (2/5)
+- JavaScript: (3/5)
+- DevOps: (1/5)
+- Power BI: (3/5)
 
 ### Soft Skills
 
-- Liderança - Tenho a habilidade de liderar equipes de maneira organizada e colaborativa, especialmente em momentos de incerteza. Quando a equipe se encontrava desorientada, tomei a iniciativa de estruturar as atividades e definir prioridades, garantindo que todos entendessem suas responsabilidades. Sempre busquei criar um ambiente de trabalho positivo, ouvindo as necessidades de cada membro e promovendo a cooperação.
 
-- Resolução de Conflitos - Durante o projeto, enfrentei situações de conflito e atuei como mediadora. Conduzi diálogos com o objetivo de entender todas as partes envolvidas e encontrar soluções que beneficiassem tanto o grupo quanto o progresso do projeto. Meu foco foi evitar que conflitos interferissem no sucesso do projeto.
+- Resolução de Conflitos - Durante o quinto semestre, enfrentamos problemas com novos integrantes novamente, surgiram conflitos internos onde não havia confiança e discordância nas entregas de DevOps e tive que intervir e tentar achar a melhor solução para a equipe e o projeto. 
 
-- Comunicação Eficaz - A comunicação clara e transparente é uma das minhas principais competências. Mantive um diálogo constante e objetivo com a equipe e os stakeholders, garantindo que todos estivessem sempre alinhados quanto aos prazos, expectativas e eventuais desafios. Isso facilitou a tomada de decisões e ajudou a evitar mal-entendidos.
-
+- Comunicação Eficaz - No início da segunda sprint, tivemos uma desistência de dois integrantes, onde o grupo ficou desfalcado, com isso tive que realinhar as entregas da equipe com o cliente.
 -----
 
 ### Em 2024-2
 
 
-No 6º semestre, trabalhamos com a empresa parceira <b> SPC Grafeno </b>, uma instituição operadora de sistema do mercado financeiro. O desafio apresentado foi explorar as bases de dados fornecidas pela empresa para identificar padrões e oportunidades, com o objetivo de desenvolver um ou mais produtos financeiros que agregassem valor tanto para a empresa quanto para seus clientes. A empresa enfrentava dificuldades em identificar e mitigar fraudes, especialmente em relação a duplicatas fraudulentas, o que compromete a segurança e a eficiência operacional. Além disso, a falta de uma plataforma centralizada que fornecesse insights visuais precisos dificultava a tomada de decisões informadas.
+No 6º semestre, trabalhamos com a empresa parceira <b> SPC Grafeno </b>, uma instituição operadora de sistema do mercado financeiro. O desafio apresentado foi explorar as bases de dados fornecidas pela empresa para identificar padrões e oportunidades, com o objetivo de desenvolver um ou mais produtos financeiros que agregassem valor tanto para a empresa quanto para seus clientes. A empresa enfrentava dificultades em problemas manuais, como conciliações mensais, identificações de duplicatas fraudulentas e falta de visualizações de dados.
 
 Como solução, desenvolvemos um sistema inovador de pontuação e painel para ativos financeiros, utilizando Inteligência Artificial e aprendizado de máquina para identificar duplicatas fraudulentas e melhorar a segurança das operações. Nossa plataforma oferece insights visuais valiosos, capacitando as instituições financeiras a tomar decisões mais precisas e rápidas. Essa solução beneficiou tanto a SPC Grafeno quanto seus clientes, trazendo maior eficiência e confiabilidade para o processo financeiro.
 
@@ -384,11 +384,11 @@ Durante o projeto, iniciei minha atuação como <b> desenvolvedora </b> na prime
 </div>
 
 ### Hard Skills
-- Python - Expertise no desenvolvimento de soluções backend, incluindo manipulação e análise de dados, além da criação e consumo de APIs robustas.
-- MongoDB - Proficiente em gerenciamento de bancos de dados NoSQL, incluindo modelagem e consultas
-- React - Capacidade de criar interfaces de usuário dinâmicas e interativas, com foco em modularidade e usabilidade.
-- Leaflet  - Experiência no desenvolvimento de mapas interativos e dinâmicos, integrando visualizações geoespaciais para uma experiência rica do usuário.
-- K-means - Conhecimento em técnicas de agrupamento utilizando o algoritmo K-Means para identificar padrões e insights em dados complexos.
+- Python: (3/5)
+- MongoDB: (2/5)
+- React: (2/5)
+- Leaflet: (4/5)
+- K-means: (4/5)
 
 ### Soft Skills
 

@@ -141,7 +141,7 @@ Além dessas contribuições, como <b> Product Owner </b> , desempenhei um papel
 ### Soft Skills
 
 - Comunicação - Durante o projeto surgiram algumas dúvidas quanto aos tipos de dados que deveriam ser cadastrados no sistema, com isso utilizei da comunicação através de canais como Slack e Teams para sanar as dúvidas.
-- Resolução de problemas: Em momentos de pressão como ao final da sprint inicial, onde tivemos problemas com merge no GitHub, foquei em entender a situação, que era somente um conflito simples, tranquilizar a equipe e garantir a continuidade na entrega.
+- Resolução de problemas - Em momentos de pressão como ao final da sprint inicial, onde tivemos problemas com merge no GitHub, foquei em entender a situação, que era somente um conflito simples, tranquilizar a equipe e garantir a continuidade na entrega.
 ---
 
 ### Em 2023-1
@@ -259,9 +259,9 @@ Além dessas atuações, também desenvolvi algumas funcionalidades importantes 
 - 
 ### Soft Skills
 
-- Comunicação - Quando apresentado o desafio, a equipe ficou insegura por não ter entendido corretamente o desafio proposto, sabendo o poder de influência dentro da equipe, foquei em sanar dúvidas principalmente relacionadas ao checklist e apresentar um caminho que fizesse sentido para os dois lados: cliente e equipe.
-- 
-- Resolução de problemas: Durante o quarto semestre, enfrentei diversos problemas, como novos integrantes. Em algumas situações, surgiram conflitos como discussões internas onde os integrantes se sentiam oprimidos, com isso tive que intervir e tentar achar a melhor solução para a equipe e o projeto. 
+- Comunicação - Quando apresentado o desafio, a equipe ficou insegura por não ter entendido corretamente o desafio proposto. Sabendo o poder de influência dentro da equipe, foquei em sanar dúvidas principalmente relacionadas ao checklist e apresentar um caminho que fizesse sentido para os dois lados: cliente e equipe.
+  
+- Resolução de problemas - Durante o quarto semestre, enfrentei diversos problemas, como novos integrantes. Em algumas situações, surgiram conflitos como discussões internas onde os integrantes se sentiam oprimidos, com isso tive que intervir e tentar achar a melhor solução para a equipe e o projeto. Após uma conversa entre o membro foi optado pelo desligamento da equipe. 
 
   
 ----
@@ -334,7 +334,7 @@ Além dessas responsabilidades, também implementei funcionalidades essenciais q
 ### Soft Skills
 
 
-- Resolução de Conflitos - Durante o quinto semestre, enfrentamos problemas com novos integrantes novamente, surgiram conflitos internos onde não havia confiança e discordância nas entregas de DevOps e tive que intervir e tentar achar a melhor solução para a equipe e o projeto. 
+- Resolução de Conflitos - Durante o quinto semestre, enfrentamos problemas de relacionamento entre os integrantes e tive que intervir conversando com ambas partes e tentando aconselha-los sobre relacionamento entre equipes.
 
 - Comunicação Eficaz - No início da segunda sprint, tivemos uma desistência de dois integrantes, onde o grupo ficou desfalcado, com isso tive que realinhar as entregas da equipe com o cliente.
 -----

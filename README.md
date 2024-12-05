@@ -385,7 +385,6 @@ Durante o projeto, iniciei minha atuação como <b> desenvolvedora </b> na prime
 
 ### Hard Skills
 - Python: (3/5)
-- MongoDB: (2/5)
 - React: (2/5)
 - Leaflet: (4/5)
 - K-means: (4/5)
